@@ -1,4 +1,9 @@
 --- 
-cursor_positions: []
-
+cursor_positions: 
+  - :path: README.rdoc
+    :cursor_offset: 210
+    :timestamp: 2012-09-19 18:29:29.395000 -07:00
+  - :path: app/helpers/application_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2012-09-18 19:36:55.136000 -07:00
 files_to_retain: 0
