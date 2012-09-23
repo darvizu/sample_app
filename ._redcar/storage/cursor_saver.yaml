@@ -6,4 +6,25 @@ cursor_positions:
   - :path: README.rdoc
     :cursor_offset: 204
     :timestamp: 2012-09-19 18:29:29.395000 -07:00
+  - :path: script/rails
+    :cursor_offset: 0
+    :timestamp: 2012-09-18 19:36:57.525000 -07:00
+  - :path: public/hello.html
+    :cursor_offset: 109
+    :timestamp: 2012-09-21 18:56:04.121000 -07:00
+  - :path: public/index.html
+    :cursor_offset: 455
+    :timestamp: 2012-09-18 19:36:57.497000 -07:00
+  - :path: README.md
+    :cursor_offset: 0
+    :timestamp: 2012-09-19 18:29:29.395000 -07:00
+  - :path: app/controllers/static_pages_controller.rb
+    :cursor_offset: 91
+    :timestamp: 2012-09-21 19:19:59.056000 -07:00
+  - :path: config/routes.rb
+    :cursor_offset: 0
+    :timestamp: 2012-09-21 19:19:59.070000 -07:00
+  - :path: app/views/static_pages/help.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-09-21 19:19:59.399000 -07:00
 files_to_retain: 0
