@@ -18,13 +18,28 @@ cursor_positions:
   - :path: README.md
     :cursor_offset: 0
     :timestamp: 2012-09-19 18:29:29.395000 -07:00
-  - :path: app/controllers/static_pages_controller.rb
-    :cursor_offset: 91
-    :timestamp: 2012-09-21 19:19:59.056000 -07:00
   - :path: config/routes.rb
-    :cursor_offset: 0
-    :timestamp: 2012-09-21 19:19:59.070000 -07:00
+    :cursor_offset: 171
+    :timestamp: 2012-09-24 11:59:04.368000 -07:00
+  - :path: app/controllers/static_pages_controller.rb
+    :cursor_offset: 113
+    :timestamp: 2012-09-24 12:00:02.456000 -07:00
+  - :path: spec/requests/static_pages_spec.rb
+    :cursor_offset: 123
+    :timestamp: 2012-09-27 12:36:42.372000 -07:00
   - :path: app/views/static_pages/help.html.erb
+    :cursor_offset: 260
+    :timestamp: 2012-09-24 13:24:52.995000 -07:00
+  - :path: app/views/static_pages/home.html.erb
+    :cursor_offset: 7
+    :timestamp: 2012-09-24 13:24:49.209000 -07:00
+  - :path: foobar
     :cursor_offset: 0
-    :timestamp: 2012-09-21 19:19:59.399000 -07:00
+    :timestamp: 2012-09-27 12:53:11.678000 -07:00
+  - :path: app\views\layouts\contact.html.erb
+    :cursor_offset: 130
+    :timestamp: 2012-09-27 13:01:57.600000 -07:00
+  - :path: app/views/static_pages/contact.html.erb
+    :cursor_offset: 130
+    :timestamp: 2012-09-27 13:07:13.520000 -07:00
 files_to_retain: 0
