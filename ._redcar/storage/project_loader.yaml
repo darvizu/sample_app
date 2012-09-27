@@ -1,3 +1,6 @@
 --- 
-open_files: []
-
+open_files: 
+  - app/views/layouts/application.html.erb
+  - app/controllers/application_controller.rb
+  - spec/spec_helper.rb
+  - README.md
