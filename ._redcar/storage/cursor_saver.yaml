@@ -12,12 +12,6 @@ cursor_positions:
   - :path: spec/spec_helper.rb
     :cursor_offset: 0
     :timestamp: 2012-09-19 14:44:10.734000 -07:00
-  - :path: app/controllers/application_controller.rb
-    :cursor_offset: 0
-    :timestamp: 2012-09-18 19:36:55.127000 -07:00
-  - :path: app/controllers/static_pages_controller.rb
-    :cursor_offset: 0
-    :timestamp: 2012-09-27 15:40:10.595000 -07:00
   - :path: app/views/static_pages/home.html.erb
     :cursor_offset: 177
     :timestamp: 2012-09-27 15:43:41.033000 -07:00
@@ -27,13 +21,25 @@ cursor_positions:
   - :path: app/views/static_pages/about.html.erb
     :cursor_offset: 52
     :timestamp: 2012-09-27 15:45:00.249000 -07:00
+  - :path: config/application.rb
+    :cursor_offset: 0
+    :timestamp: 2012-09-18 19:36:55.281000 -07:00
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-09-18 19:36:55.127000 -07:00
+  - :path: app/controllers/static_pages_controller.rb
+    :cursor_offset: 131
+    :timestamp: 2012-09-27 15:40:10.595000 -07:00
   - :path: app/views/static_pages/contact.html.erb
-    :cursor_offset: 115
-    :timestamp: 2012-09-27 15:47:05.372000 -07:00
+    :cursor_offset: 112
+    :timestamp: 2012-09-30 12:18:55.905000 -07:00
   - :path: spec/requests/static_pages_spec.rb
-    :cursor_offset: 1229
-    :timestamp: 2012-09-27 15:58:41.875000 -07:00
+    :cursor_offset: 609
+    :timestamp: 2012-09-30 12:49:20.058000 -07:00
   - :path: app/views/layouts/application.html.erb
-    :cursor_offset: 281
-    :timestamp: 2012-09-27 15:48:03.051000 -07:00
+    :cursor_offset: 0
+    :timestamp: 2012-09-30 12:26:26.465000 -07:00
+  - :path: app/helpers/application_helper.rb
+    :cursor_offset: 267
+    :timestamp: 2012-11-05 15:29:56.917000 -08:00
 files_to_retain: 0

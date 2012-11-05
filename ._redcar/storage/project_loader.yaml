@@ -1,6 +1,5 @@
 --- 
 open_files: 
+  - app/helpers/application_helper.rb
   - app/views/layouts/application.html.erb
-  - app/controllers/application_controller.rb
-  - spec/spec_helper.rb
-  - README.md
+  - spec/requests/static_pages_spec.rb
